@@ -1,0 +1,13 @@
+{
+  "@@locale": "ne",
+  "appTitle": "Pulse Mobile",
+  "onboarding1Title": "आफ्नो प्रदर्शन ट्रयाक गर्नुहोस्",
+  "onboarding1Subtitle": "उचाइ, तौल, सहनशीलता आदि सजिलै मापन गर्नुहोस्।",
+  "onboarding2Title": "एआई-आधारित अन्तर्दृष्टि",
+  "onboarding2Subtitle": "डिभाइस मोडेल र ब्याकइण्ड एआईबाट प्रतिक्रियाहरू पाउनुहोस्।",
+  "onboarding3Title": "सुधारका लागि ड्रिलहरू प्राप्त गर्नुहोस्",
+  "onboarding3Subtitle": "सीप सुधारका लागि अभ्यास",
+  "next": "अर्को",
+  "continueButton": "जारी राख्नुहोस्",
+  "selectLanguage": "आफ्नो भाषा छान्नुहोस्"
+}

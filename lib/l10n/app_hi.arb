@@ -1,0 +1,46 @@
+{
+  "@@locale": "hi",
+  "appTitle": "Pulse Mobile",
+
+  "onboarding1Title": "अपना प्रदर्शन ट्रैक करें",
+  "onboarding1Subtitle": "ऊँचाई, वजन, सहनशक्ति आदि को आसानी से मापें।",
+  "onboarding2Title": "एआई-संचालित अंतर्दृष्टि",
+  "onboarding2Subtitle": "डिवाइस मॉडल और बैकएंड एआई से फीडबैक प्राप्त करें।",
+  "onboarding3Title": "सुधार के लिए अभ्यास प्राप्त करें",
+  "onboarding3Subtitle": "कौशल सुधारने के लिए अभ्यास",
+  "next": "आगे",
+  "continueButton": "जारी रखें",
+  "selectLanguage": "अपनी भाषा चुनें",
+
+  "loginTitle": "लॉगिन",
+  "loginEmail": "ईमेल",
+  "loginPassword": "पासवर्ड",
+  "loginFailed": "लॉगिन असफल",
+  "loginButton": "लॉगिन",
+  "loginRegisterPrompt": "खाता नहीं है? रजिस्टर करें",
+
+  "registerTitle": "रजिस्टर",
+  "registerName": "पूरा नाम",
+  "registerEmail": "ईमेल",
+  "registerPassword": "पासवर्ड",
+  "registerConfirmPassword": "पासवर्ड पुष्टि करें",
+  "registerButton": "रजिस्टर",
+  "registerLoginPrompt": "पहले से खाता है? लॉगिन करें",
+
+  "dashboardTitle": "डैशबोर्ड",
+  "dashboardGreeting": "स्वागत है, {userName}!",
+  "dashboardTotalProgress": "कुल प्रगति",
+  "dashboardSessions": "सत्र",
+  "dashboardAchievements": "उपलब्धियाँ",
+
+  "progressTitle": "प्रगति",
+  "progressHeight": "ऊँचाई",
+  "progressWeight": "वजन",
+  "progressEndurance": "सहनशक्ति",
+  "progressSpeed": "गति",
+  "progressStrength": "शक्ति",
+
+  "settingsTitle": "सेटिंग्स",
+  "settingsLanguage": "भाषा बदलें",
+  "settingsTheme": "थीम बदलें"
+}

@@ -1,0 +1,13 @@
+{
+  "@@locale": "as",
+  "appTitle": "Pulse Mobile",
+  "onboarding1Title": "আপোনাৰ পৰিফৰ্মেন্স ট্ৰেক কৰক",
+  "onboarding1Subtitle": "উচ্চতা, ওজন, সহনশীলতা আদি সহজে মাপক।",
+  "onboarding2Title": "এআই-ভিত্তিক অন্তৰ্দৃষ্টি",
+  "onboarding2Subtitle": "ডিভাইচ মডেল আৰু বেকএণ্ড এআইৰ পৰা মতামত লাভ কৰক।",
+  "onboarding3Title": "উন্নতিৰ বাবে ড্ৰিল লাভ কৰক",
+  "onboarding3Subtitle": "দক্ষতা উন্নত কৰিবলৈ অভ্যাসসমূহ",
+  "next": "পিছলৈ",
+  "continueButton": "আগবাঢ়ক",
+  "selectLanguage": "আপোনাৰ ভাষা বাছনি কৰক"
+}

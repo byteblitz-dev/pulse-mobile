@@ -1,0 +1,13 @@
+{
+  "@@locale": "kok",
+  "appTitle": "Pulse Mobile",
+  "onboarding1Title": "तुझो पारफॉर्मन्स ट्रॅक कर",
+  "onboarding1Subtitle": "उंचाई, वजन, स‍हनश‍क्ति इ. सोप्यान माप",
+  "onboarding2Title": "AI आधारीत माहिती",
+  "onboarding2Subtitle": "डिवाईस मॉडेल आनी बॅकएंड AI कडेन फीडबॅक मेळ",
+  "onboarding3Title": "सुधाराक ड्रिल्स मेळ",
+  "onboarding3Subtitle": "कौशल्य सुधारपाक अभ्यास",
+  "next": "फुडें",
+  "continueButton": "चालू द",
+  "selectLanguage": "तुझी भाषा वेंच"
+}

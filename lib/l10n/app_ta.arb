@@ -1,0 +1,13 @@
+{
+  "@@locale": "ta",
+  "appTitle": "Pulse Mobile",
+  "onboarding1Title": "உங்கள் செயல்திறனை கண்காணிக்கவும்",
+  "onboarding1Subtitle": "உயரம், எடை, சகிப்புத்தன்மை ஆகியவற்றை எளிதாக அளவிடுங்கள்.",
+  "onboarding2Title": "ஏஐ இயக்கப்படும் உள்ளடக்கம்",
+  "onboarding2Subtitle": "சாதன மாதிரிகள் மற்றும் பின்தள ஏஐ-இலிருந்து கருத்துகளைப் பெறுங்கள்.",
+  "onboarding3Title": "மேம்படுத்த பயிற்சிகளை பெறுங்கள்",
+  "onboarding3Subtitle": "திறனை மேம்படுத்த பயிற்சிகள்",
+  "next": "அடுத்து",
+  "continueButton": "தொடரவும்",
+  "selectLanguage": "உங்கள் மொழியைத் தேர்வு செய்யவும்"
+}

@@ -1,0 +1,13 @@
+{
+  "@@locale": "mai",
+  "appTitle": "Pulse Mobile",
+  "onboarding1Title": "अपन प्रदर्शन ट्रैक करू",
+  "onboarding1Subtitle": "ऊँचाई, वजन, सहनशक्ति आदिकेँ आसानी सँ नापू।",
+  "onboarding2Title": "एआई आधारित जानकारी",
+  "onboarding2Subtitle": "डिवाइस मॉडल आ बैकएंड एआई सँ फीडबैक पाउ।",
+  "onboarding3Title": "सुधार लेल ड्रिल्स पाउ",
+  "onboarding3Subtitle": "कौशल सुधारबाक लेल अभ्यास",
+  "next": "आगाँ",
+  "continueButton": "जारी राखू",
+  "selectLanguage": "अपन भाषा चुनू"
+}

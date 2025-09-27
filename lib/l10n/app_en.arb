@@ -1,0 +1,46 @@
+{
+  "@@locale": "en",
+  "appTitle": "Pulse Mobile",
+
+  "onboarding1Title": "Track Your Performance",
+  "onboarding1Subtitle": "Measure height, weight, endurance, and more with ease.",
+  "onboarding2Title": "AI-Powered Insights",
+  "onboarding2Subtitle": "Get feedback from on-device models and backend AI.",
+  "onboarding3Title": "Get Drills to improve",
+  "onboarding3Subtitle": "Drills to improve upon your skills",
+  "next": "Next",
+  "continueButton": "Continue",
+  "selectLanguage": "Select Your Language",
+
+  "loginTitle": "Login",
+  "loginEmail": "Email",
+  "loginPassword": "Password",
+  "loginFailed": "Login failed",
+  "loginButton": "Login",
+  "loginRegisterPrompt": "Don’t have an account? Register",
+
+  "registerTitle": "Register",
+  "registerName": "Full Name",
+  "registerEmail": "Email",
+  "registerPassword": "Password",
+  "registerConfirmPassword": "Confirm Password",
+  "registerButton": "Register",
+  "registerLoginPrompt": "Already have an account? Login",
+
+  "dashboardTitle": "Dashboard",
+  "dashboardGreeting": "Welcome, {userName}!",
+  "dashboardTotalProgress": "Total Progress",
+  "dashboardSessions": "Sessions",
+  "dashboardAchievements": "Achievements",
+
+  "progressTitle": "Progress",
+  "progressHeight": "Height",
+  "progressWeight": "Weight",
+  "progressEndurance": "Endurance",
+  "progressSpeed": "Speed",
+  "progressStrength": "Strength",
+
+  "settingsTitle": "Settings",
+  "settingsLanguage": "Change Language",
+  "settingsTheme": "Change Theme"
+}
